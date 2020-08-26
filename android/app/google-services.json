@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "788979235407",
+    "firebase_url": "https://todo-list-firebase-80152.firebaseio.com",
+    "project_id": "todo-list-firebase-80152",
+    "storage_bucket": "todo-list-firebase-80152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788979235407:android:3020465acaecdc4665883a",
+        "android_client_info": {
+          "package_name": "com.tushar.todolist_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788979235407-qct8onfj5dkc5ttlpa4i0u4tdi51v0r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKn1otcGHZ9rQhUm7uMbRHsG7hDcyQ4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788979235407-qct8onfj5dkc5ttlpa4i0u4tdi51v0r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
